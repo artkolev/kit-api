@@ -21,6 +21,7 @@ Thumbs.db
 # composer itself is not needed
 composer.phar
 
+/app/var
 # vendor
 /app/coverage
 /app/vendor
@@ -32,3 +33,4 @@ composer.phar
 /symfony/.env.local
 /symfony/tests/_output/
 /symfony/web/build/
+/app/.editorconfig
